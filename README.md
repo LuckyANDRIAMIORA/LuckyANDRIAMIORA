@@ -1,16 +1,21 @@
 ## Hi there 👋
+No grand plan.  
+Just doing my thing.
 
-<!--
-**LuckyANDRIAMIORA/LuckyANDRIAMIORA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### What I do  
+- Build software that mostly works  
+- Manage databases to keep things from breaking  
+- Automate boring stuff because why not  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I mess with  
+- Reinventing wheels just to see if I can  
+- Exploring random corners of computer science  
+
+---
+
+### Fun fact  
+Picking up skills I might never use. It’s a hobby now. 😌
