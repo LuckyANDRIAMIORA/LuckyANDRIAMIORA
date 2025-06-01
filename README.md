@@ -5,9 +5,9 @@ Just doing my thing.
 ---
 
 ### What I do  
-- Build software that mostly works  
-- Manage databases to keep things from breaking  
-- Automate boring stuff because why not  
+- Build software
+- Manage databases 
+- Automate boring stuff
 
 ---
 
