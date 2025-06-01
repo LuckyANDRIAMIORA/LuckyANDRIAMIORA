@@ -1,32 +1,21 @@
-<!-- Genma-style: minimalist, composed, zero flash -->
-
-<div align="center">
-  <img src="https://i.imgur.com/your-genma-style-banner.png" alt="Genma Vibes" width="80" />
-  
-  ## Yo.
-  <sub>No drama. Just handling it.</sub>
-</div>
+## Hi there 👋
+No grand plan.  
+Just doing my thing.
 
 ---
 
-### 🛠️ What I do  
-- Build systems that don’t fall apart  
-- Keep data clean  
-- Automate the noise away  
+### What I do  
+- Build software
+- Manage databases 
+- Automate boring stuff
 
 ---
 
-### 🔍 What I mess with  
-- Rebuilding wheels just because  
-- Wandering through CS rabbit holes  
+### What I mess with  
+- Reinventing wheels just to see if I can  
+- Exploring random corners of computer science  
 
 ---
 
-### 🧠 Fun fact  
-Learning stuff I’ll probably never need.  
-It’s a reflex now.  
-<br><br>
-
-<div align="center">
-  <img src="https://i.imgur.com/your-senbon-icon.png" width="20" />
-</div>
+### Fun fact  
+Picking up skills I might never use. It’s a hobby now. 😌
