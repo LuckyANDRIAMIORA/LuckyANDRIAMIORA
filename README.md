@@ -1,36 +1,26 @@
-<!-- Optional: sci-fi style header image -->
 <p align="center">
-  <img src="https://your-banner-image.com/banner.png" alt="Data Wanderer" width="100%">
+  <img src="https://i.imgur.com/placeholder.png" alt="Futuristic Cyberpunk Banner" width="100%" />
 </p>
 
-<h2 align="center">🚀 Data Wanderer Log</h2>
-<p align="center"><i>No grand plan. Just navigating the void.</i></p>
+## 🚀 拝啓、旅の者より 👋  
+_No grand plan._  
+_Just doing my thing._
 
 ---
 
 ### 🛠️ What I do
-- 🧩 Build software modules  
-- 🗄️ Manage structured and chaotic data  
-- 🤖 Automate the mundane to preserve mental RAM  
+- Build software  
+- Manage databases  
+- Automate boring stuff  
 
 ---
 
-### 🧪 What I mess with
-- 🛞 Reinventing wheels (just to see the inner gears)  
-- 🧭 Drifting into forgotten nodes of computer science  
+### 🧭 What I mess with
+- Reinventing wheels just to see if I can  
+- Exploring random corners of computer science  
 
 ---
 
-### 🧠 Fun fact
-> Acquiring skills I may never need.  
-> It’s not about utility anymore—it’s about evolution. 😌
-
----
-
-<p align="center">
-  <img src="https://your-image.com/cyberpunk-divider.png" width="60%" />
-</p>
-
-<p align="center">
-  <i>“Code is poetry. Systems are worlds. Keep wandering.”</i>
-</p>
+### 🍃 Fun fact
+> Picking up skills I might never use.  
+> It’s a hobby now. 😌
