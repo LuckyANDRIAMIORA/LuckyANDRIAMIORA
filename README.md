@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="YOUR_IMAGE_URL" alt="Cozy Tech Workspace" width="100%" />
-</p>
-
 ## 👋 Hi there  
 _No grand plan._  
 _Just doing my thing._
